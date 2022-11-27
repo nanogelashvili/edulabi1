@@ -1,0 +1,180 @@
+
+
+
+.flex { 
+     display: flex;
+     flex-wrap: wrap;
+}
+
+
+.justify-space-between {
+     justify-content: space-between;
+}
+
+#logo {
+     width: 120px;
+}
+
+header {
+	display: flex;
+	
+}
+ul.active {
+  color: blue;
+  cursor: pointer;
+
+}
+
+ul { 
+     gap: 30px;
+     padding: 22px 64px;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+ }
+ 
+h3 {
+      padding: 0px 20px;
+
+}
+
+
+.color{
+     background-color:#165a72 ;
+}
+
+
+#border {
+     padding-top:5px;
+  padding-bottom: 5px;
+}
+#img11 {
+     width: 100%;
+      height: auto;
+      opacity: 0.4;
+}
+
+.container {
+  position: relative;
+
+}
+.container h1 {
+ position: absolute;
+ top: 29%;
+  left: 41%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  background-color: white;
+  width: 52%;
+
+}
+.container ul{
+     position: absolute;
+     font-size: 20px;
+     bottom: 8px;
+     right: 16px;
+     background-color: white;
+     width: 25%;
+     
+     
+}
+
+
+
+
+
+#section{
+     align-items: center;
+         width:22%;
+         margin: auto;
+         padding: 10px 0;
+
+
+}
+#section h1 {
+     color: #EB6440;
+}
+#section h2 {
+     color: blue;
+}
+
+
+
+#section1 div {
+
+   height: 200px;  
+  padding: 40px 25;
+  box-sizing: border-box;
+ border: 2px ;
+ width: 440px;
+  margin-bottom: 30px;
+ background-color: #F1F5DD;
+
+}
+
+#section1 {
+     width:100%;
+     margin-bottom: 50px;
+     justify-content: space-around;
+     background-color:#EFF5F5;
+   
+}
+
+#section1 h4 {
+     padding:60px 90px;}
+
+#img3 {
+     width: 99%;
+}
+
+
+#last1 p  {width:93% ;
+
+}
+
+#last1 {
+     width: 30%;   
+}
+
+#ficture{
+    
+         width: 951px;
+          padding: 30px 250px;  
+
+
+}
+
+
+
+body{
+     background-color: #F5F5F5;
+}
+
+
+
+
+
+footer {
+     background-color: #141414;
+
+}
+
+#footer {
+     padding-top: 50px;
+     padding-bottom: 50px;
+}
+
+#footer h4 {
+     color: #ffffff;
+     font-size: 18px;
+     margin-bottom: 28px;
+}
+
+#footer p {
+     font-size: 15px;
+     color: #BCBCBC;     
+}
+
+
+#footer p:first-of-type {
+     margin-bottom: 20px;
+}
